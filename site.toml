@@ -1,0 +1,5 @@
+title       = "Fox docs"
+# Origin only — page URLs already carry the path prefix.
+base_url    = "https://themedocs.github.io"
+path_prefix = "/fox/"
+home_url    = "https://themedocs.github.io/"

@@ -1,0 +1,51 @@
+# Left-nav order. Titles come from each page's front matter.
+
+[[section]]
+title = "Getting started"
+dir   = "getting-started"
+pages = ["overview", "install", "import-demo", "import-manually", "update", "manage-licenses", "refund", "hosting", "stylesheet-missing-error"]
+
+[[section]]
+title = "Theme options"
+dir   = "theme-options"
+pages = ["overview", "customization", "typography", "site-layout"]
+
+[[section]]
+title = "Theme parts"
+dir   = "theme-parts"
+pages = ["overview", "header", "footer", "single", "subtitle", "page", "blog-archive", "sidebar-widgets"]
+
+[[section]]
+title = "Page builder"
+dir   = "page-builder"
+pages = ["overview", "builder", "builder-post-additional-query", "generate-wp-query-json", "builder-post-custom-query", "ad-element"]
+
+[[section]]
+title = "The Fox v5"
+dir   = "the-fox-v5"
+pages = ["overview", "fox-block-explained", "header-builder", "footer-builder", "off-canvas-menu", "the-fox-framework-plugin", "using-elementor-page-builder", "set-up-amp-with-the-fox", "the-fox-v5-vs-the-fox-v6", "theme-engine"]
+
+[[section]]
+title = "Optimization"
+dir   = "performance-optimization"
+pages = ["overview", "fox-wp-rocket-imagify"]
+
+[[section]]
+title = "Advanced"
+dir   = "advanced"
+pages = ["insert-custom-code", "youtube-video", "export-import-your-settings", "secure-your-site", "child-theme", "woocommerce", "mobile", "set-up-instagram", "set-up-newsletter-form"]
+
+[[section]]
+title = "Miscellaneous"
+dir   = "miscellaneous"
+pages = ["advertisement", "fox_blog-shortcode", "button-shortcode"]
+
+[[section]]
+title = "FAQs"
+dir   = "faqs"
+pages = ["overview", "how-to-change-post-subtitle", "how-to-use-post-settings-for-other-post-types", "how-can-i-add-custom-php-javascript-css-code", "how-to-embed-youtube-shorts", "how-to-change-single-post-padding", "how-to-change-archive-page-padding", "how-to-change-homepage-padding", "how-to-add-3-intro-blocks-like-deodar-demo", "how-to-import-woocommerce-sample-data", "how-to-leave-a-review-for-the-fox", "why-you-shouldnt-add-analytics-code-to-theme", "what-cant-we-support", "how-to-remove-website-url-field-from-comment-form", "how-to-remove-post-views-icon-in-my-post", "what-is-a-featured-post", "failed-to-import-products", "why-my-youtube-videos-look-ugly", "is-elementor-necessary-for-the-fox", "how-to-use-elementor-heading", "how-to-enable-dark-mode-toggle-button", "how-to-customize-footer-pop-up-posts", "how-to-change-single-post-link-color-style", "how-to-backup-site-settings", "how-to-adjust-thumbnail-width-on-mobile-for-post-list", "how-to-hide-page-title"]
+
+[[section]]
+title = "Changelog"
+dir   = ""
+pages = ["changelog"]
