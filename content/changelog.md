@@ -92,7 +92,7 @@ description: "View previous change log >>"
 
 ```
 - fix: demos can't be fetched by some hosting
-- update: docs url to docs.withemes.com/fox
+- update: docs url
 ```
 
 #### Version 6.9.6 - October 16, 2025
@@ -269,8 +269,8 @@ description: "View previous change log >>"
 #### Version 6.7 – Oct 06, 2024
 
 ```
-- feature: builder additional query option: https://fox.withemes.com/documentation/builder/builder-post-additional-query/
-- feature: builder custom query option: https://fox.withemes.com/documentation/builder/builder-post-custom-query/
+- feature: builder additional query option: /fox/page-builder/builder-post-additional-query/
+- feature: builder custom query option: /fox/page-builder/builder-post-custom-query/
 - feature: image caption link color
 - feature: add dark mode switcher style + dark mode swticher options
 - feature: off-canvas submenu options
@@ -295,7 +295,7 @@ description: "View previous change log >>"
 - fix: woocommerce css precedence issue
 - fix: exclude featured posts not working in home builder
 - fix: ad element not showing after being added to Customizer
-- fix: remove default via @withemes from Twitter share
+- fix: remove default via handle from Twitter share
 - fix: top area posts being excluded by RSS feed
 - fix: ( masonry + big post first ) not responsive on mobile
 - fix: footer menu loads more than 1 levels
@@ -404,7 +404,7 @@ description: "View previous change log >>"
 ```
 - feature: add margin bottom option for section
 - feature: add Standard post format to the Customize > Builder > Section > Query > Post Format
-- feature: allow to embed youtube shorts with actual ratio, guide here: https://fox.withemes.com/documentation/faqs/how-to-embed-youtube-shorts/
+- feature: allow to embed youtube shorts with actual ratio, guide here: /fox/faqs/how-to-embed-youtube-shorts/
 - feature: add font variants to load in Customize > DESIGN > Choose Fonts
 - fix: remove link to post from rich media thumbnail
 - fix: homepage builder section margin top/bottom not working when section spacing is set
@@ -470,7 +470,7 @@ description: "View previous change log >>"
 
 ```
 - feature: built-in backup settings in Customizer
-- feature: [[fox_blog]] shortcode: fox.withemes.com/documentation/advanced-usage
+- feature: [[fox_blog]] shortcode: /fox/miscellaneous/fox_blog-shortcode/
 - feature: clear log when upgrade v5 -> v6
 - feature: add page title align
 - feature: add general page options: layout 5, 6
@@ -643,5 +643,3 @@ description: "View previous change log >>"
 - fix: home builder padding top/bottom
 - fix: Fox version message while updating
 ```
-
-[View previous change log >>](https://fox.withemes.com/previous-change-log/)

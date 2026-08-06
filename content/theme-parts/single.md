@@ -3,7 +3,7 @@ title: "Single post"
 description: "A single post determines the layout of your blog posts. It is used to display the post details like this. Not blog, category or archive page."
 ---
 
-A **single post** determines the layout of your blog posts. It is used to display the post details [like this](https://docs.withemes.com/fox/times/we-got-a-right-to-pick-a-little-fight-bonanza/). *Not blog, category or archive page*.
+A **single post** determines the layout of your blog posts. It is used to display the post details [like this](https://fox.withemes.com/times/we-got-a-right-to-pick-a-little-fight-bonanza/). *Not blog, category or archive page*.
 
 Settings for single post, we have 2 setting levels:
 
@@ -30,13 +30,13 @@ There are 7 post layouts to choose from.
 
 **You can view the examples here:**
 
-- [Layout 1](https://docs.withemes.com/fox/classic/travel-post-4/)
-- [Layout 1b](https://docs.withemes.com/fox/classic/image-stack-gallery/)
-- [Layout 2](https://docs.withemes.com/fox/classic/politics-post-4/)
-- [Layout 3](https://docs.withemes.com/fox/classic/photography-post-3/)
-- [Layout 4 (Hero Full)](https://docs.withemes.com/fox/times/im-a-high-school-graduate/)
-- [Layout 5 (Hero Half)](https://docs.withemes.com/fox/times/bronx-new-york-in-the-pandemic/)
-- [Layout 6](https://docs.withemes.com/fox/times/i-went-to-art-school/)
+- [Layout 1](https://fox.withemes.com/classic/travel-post-4/)
+- [Layout 1b](https://fox.withemes.com/classic/image-stack-gallery/)
+- [Layout 2](https://fox.withemes.com/classic/politics-post-4/)
+- [Layout 3](https://fox.withemes.com/classic/photography-post-3/)
+- [Layout 4 (Hero Full)](https://fox.withemes.com/times/im-a-high-school-graduate/)
+- [Layout 5 (Hero Half)](https://fox.withemes.com/times/bronx-new-york-in-the-pandemic/)
+- [Layout 6](https://fox.withemes.com/times/i-went-to-art-school/)
 
 Note: term **Hero post**: the layout 4 & 5 are called **Hero posts** because they have Big Hero Image in the header. Layout 4 has fullscreen header image so it’s called **Hero Full**. Layout 5 is called **Hero Half**.
 

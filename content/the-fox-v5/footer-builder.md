@@ -16,4 +16,4 @@ Footer builder is the footer that uses FOX Block to build footer. The advantage 
 
 They’re 2 totally independent and separated modules so if you use one kind of footer, you don’t need to worry about the other kind.
 
-To use Footer Builder, you should understand how it works. Footer Builder uses FOX Block, so please take a look at [this article](https://thefox.withemes.com/documentation/fox-block-explained/) to understand how FOX Block works.
+To use Footer Builder, you should understand how it works. Footer Builder uses FOX Block, so please take a look at [this article](/fox/the-fox-v5/fox-block-explained/) to understand how FOX Block works.

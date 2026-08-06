@@ -13,7 +13,7 @@ You can customize your site layout in **Customize > Layout & colors > Site layou
 
 ### Wide and boxed layout
 
-The default layout is **wide layout**. Here's sample boxed layout: [thefox.withemes.com/timesnews/](https://thefox.withemes.com/timesnews/)
+The default layout is **wide layout**. Here's a [sample boxed layout](https://thefox.withemes.com/timesnews/).
 
 To enable boxed layout, **Customize > Layout & colors > Site layout & background > Boxed layout** then check the box.
 

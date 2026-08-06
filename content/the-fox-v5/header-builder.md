@@ -16,4 +16,4 @@ Header builder is the header that uses FOX Block to build header. The advantage 
 
 They’re 2 totally independent and separated modules so if you use one kind of header, you don’t need to worry about the other kind.
 
-To use Header Builder, you should understand how it works. Header Builder uses FOX Block, so please take a look at [this article](https://thefox.withemes.com/documentation/fox-block-explained/) to understand how FOX Block works. After that, [here’s the step-by-step guide](https://thefox.withemes.com/documentation/fox-block-explained/using-fox-block-to-build-custom-header/) (with video) to build a custom header (header builder) by FOX Block.
+To use Header Builder, you should understand how it works. Header Builder uses FOX Block, so please take a look at [this article](/fox/the-fox-v5/fox-block-explained/) to understand how FOX Block works. Once you understand FOX Block, building a custom header is a matter of creating a FOX Block and selecting it as the header in *Customize > Header*.

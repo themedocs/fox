@@ -13,8 +13,6 @@ Briefly explained, if you set up AMP, for each URL of *https://your-site.com/the
 
 Yes, since Fox version 4.8, it supports AMP and in this article, we’ll explain how to set up AMP-ready site with Fox theme.
 
-You can visit [The Fox AMP version on your mobile](https://thefox.withemes.com/fox-amp/amp/)
-
 ### **How to set up AMP?**
 
 There are many ways to build an AMP-friendly website generally. Also in WordPress, there’re many plugins that help you to convert your site into AMP-friendly site. Fox theme supports and uses this plugin: [AMP for WP](https://wordpress.org/plugins/accelerated-mobile-pages/) to build AMP site. What it means:
@@ -45,4 +43,4 @@ Fox uses AMP for WP plugin to set up AMP. So please follow [their documentation]
 
 Go to *Dashboard > AMP > Design > Themes*, in the dropdown, please choose *The Fox AMP* theme, then hit the Save button.
 
-Now you have an AMP-ready site with Fox’s style and it inherits all font options from The Fox theme. You can test with [AMP verification here >>](https://validator.ampproject.org/). For instance, our [Fox AMP demo has passed this verification](https://validator.ampproject.org/#url=https%3A%2F%2Fthefox.withemes.com%2Ffox-amp%2Famp%2F).
+Now you have an AMP-ready site with Fox’s style and it inherits all font options from The Fox theme. You can test with [AMP verification here >>](https://validator.ampproject.org/) — paste your own AMP URL in to confirm it passes.
