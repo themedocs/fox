@@ -51,7 +51,7 @@ description: "View previous change log >>"
 
 ```
 - add: page builder for any page: add page and choose template "Page builder"
-- add: fox studio template directory: https://fox-studio.withemes.com/
+- add: fox studio template directory: https://themedocs.github.io/fox-templates/
 - improve site loading time: only load page builder fonts on pages having builder
 - fix: various page builder issues
 ```
