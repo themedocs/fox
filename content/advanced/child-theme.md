@@ -42,7 +42,7 @@ If you’re using multi-site, please skip this section and see the below section
 
 **Step 3**: Click “Export” button, you’ll get a file **fox-export.dat**
 
-**Step 4**: Downoad [sample Fox Child Theme](https://withemes.com/wp-content/uploads/2026/06/fox-child-theme.zip).
+**Step 4**: Downoad [sample Fox Child Theme](/fox/assets/fox-child-theme.zip).
 
 **Step 5**: Install the child theme in *Appearance > Themes > Add New* as usual, and activate it. At this step, you’ll see all of your settings, content are gone. Your site looks terrible. Don’t worry. We’ll revert all in next stesp.
 
@@ -60,7 +60,7 @@ The above process applies to Multisite (Network) too. However, you must apply 7 
 
 Assume your multisite has 2 sites My Blog 1 and My Blog 2. Here’s the steps to set up child theme for My Blog 1:
 
-**Step 1**: Go to *Dashboard > My Sites > Themes > Add New* to install the child theme. The [sample child theme here](https://withemes.com/wp-content/uploads/2026/06/fox-child-theme.zip), choose “*Network Enable*”
+**Step 1**: Go to *Dashboard > My Sites > Themes > Add New* to install the child theme. The [sample child theme here](/fox/assets/fox-child-theme.zip), choose “*Network Enable*”
 
 **Step 2**: Install [**Customizer Export/Import plugin**](https://wordpress.org/plugins/customizer-export-import/)
 

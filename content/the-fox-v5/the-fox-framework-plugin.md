@@ -23,4 +23,4 @@ If you updated to Fox v6 from previous versions Fox v5, v4 and you used Fox Fram
 
 If you’re in Fox v6, you can’t install it because It’s not there in v6 and also, It’s not necessary for v6. If you’re in Fox v5, you can install it by going to **Dashboard > Fox Magazine > Install Plugins**.
 
-Or you can [download it here](https://docs.withemes.com/thefox/wp-content/uploads/sites/3/2023/10/fox-framework.zip).
+Or you can [download it here](https://files.themepreview.site/fox-framework.zip).
