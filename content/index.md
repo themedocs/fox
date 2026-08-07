@@ -18,4 +18,4 @@ Welcome to **The Fox** documentation. Thank you for purchasing [The Fox Magazine
 
 ---
 
-Can't find what you're looking for, [visit our support desk](https://withemes.ticksy.com/).
+Can't find what you're looking for, [visit our support desk](https://heronwp.support-desk.site/).

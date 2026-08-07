@@ -59,7 +59,7 @@ description: "View previous change log >>"
 #### Version 6.9.7.3 - Dec 10, 2025
 
 ```
-- add: Cambridge demo: https://fox.withemes.com/cambridge/
+- add: Cambridge demo: https://fox.themepreview.site/cambridge/
 - fix: various minor issues in live customizer
 - fix: few missinge "edit" pencils on button, heading widget of the builder
 ```
@@ -98,7 +98,7 @@ description: "View previous change log >>"
 #### Version 6.9.6 - October 16, 2025
 
 ```
-- add: Stockholm demo: fox.withemes.com/stockholm
+- add: Stockholm demo: fox.themepreview.site/stockholm
 - add: autoplay speed option for post carousel
 - add: row vertical align option: top, middle, bottom, stretch
 - add: text widget typography option, color option

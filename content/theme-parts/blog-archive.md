@@ -15,9 +15,9 @@ Please go to *Customize > Archives > Archive Titlebar*to change archive titlebar
 
 **Archive description**: You can disable archive description.
 
-**User profile social icon style**: This is the option for [author page like this >](https://fox.withemes.com/classic/author/withemes/).
+**User profile social icon style**: This is the option for [author page like this >](https://fox.themepreview.site/classic/author/withemes/).
 
-**Shows subcategories for category archive**: If your category World has subcategories like Europe, Asia, America.. then when you enable this, it’ll show the list of those subcategories below the archive title. [Example >](https://fox.withemes.com/classic/category/travel/)
+**Shows subcategories for category archive**: If your category World has subcategories like Europe, Asia, America.. then when you enable this, it’ll show the list of those subcategories below the archive title. [Example >](https://fox.themepreview.site/classic/category/travel/)
 
 **Titlebar background**: Obvious
 

@@ -11,7 +11,7 @@ Each demo consists of 3 components: content, settings and widgets. Content and s
 2. `content.xml`
 3. `widgets.wie`
 
-Before importing, visit the **[demo list](https://fox.withemes.com/demolist/)**, find the demo you want to import, then download 3 required files. **Note**: File names might be different, but you only need to pay attention to file extensions (*dat for customizer, *xml for content, *wie for widgets)
+Before importing, visit the **[demo list](https://fox.themepreview.site/demolist/)**, find the demo you want to import, then download 3 required files. **Note**: File names might be different, but you only need to pay attention to file extensions (*dat for customizer, *xml for content, *wie for widgets)
 
 Visit demo list
 

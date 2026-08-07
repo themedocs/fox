@@ -44,4 +44,4 @@ Sometimes you can’t access to your website you used that purchase code (for in
 
 **Still not working?**
 
-Please [open a support ticket here](https://withemes.ticksy.com/), or [comment on Themeforest](https://themeforest.net/item/the-fox-contemporary-magazine-theme-for-creators/11103012/comments), we will help you to revoke/remove the license manually. **Note**: Our support ticket is private and your information is safe, but Themeforest comments are public. DO NOT PROVIDE license code on Themeforest comments.
+Please [open a support ticket here](https://heronwp.support-desk.site/), or [comment on Themeforest](https://themeforest.net/item/the-fox-contemporary-magazine-theme-for-creators/11103012/comments), we will help you to revoke/remove the license manually. **Note**: Our support ticket is private and your information is safe, but Themeforest comments are public. DO NOT PROVIDE license code on Themeforest comments.

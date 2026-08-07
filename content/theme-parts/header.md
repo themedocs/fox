@@ -110,7 +110,7 @@ For mobile, click **`Customize > Header > Header Mobile`**, then click to “**S
 
 ### Hero Post Header
 
-Being **used for HERO Posts**, for instance, [Hero Full](https://fox.withemes.com/times/im-a-high-school-graduate/) or [Hero Half](https://fox.withemes.com/times/bronx-new-york-in-the-pandemic/). Hero Header contains only logo + hamburger button.
+Being **used for HERO Posts**, for instance, [Hero Full](https://fox.themepreview.site/times/im-a-high-school-graduate/) or [Hero Half](https://fox.themepreview.site/times/bronx-new-york-in-the-pandemic/). Hero Header contains only logo + hamburger button.
 
 **First**, you must select the layout for the post as either *Hero Full* or *Hero Half*.
 
