@@ -1,24 +1,33 @@
 ---
 title: "Changelog"
-description: "View previous change log >>"
+description: "Every released version of the Fox theme, newest first."
 ---
 
 #### Version 7.1 - Jun 19, 2026
 
 ```
-- improve theme performance both backend & frontend by removing duplicated queries: toparea, single bottom posts, backend customizer- improve: protect functions by function_exists for entire theme- fix: head code (custom JS/CSS/HTML) not saving- fix: woff2 icon font not found- fix minor issues
+- improve theme performance both backend & frontend by removing duplicated queries: toparea, single bottom posts, backend customizer
+- improve: protect functions by function_exists for entire theme
+- fix: head code (custom JS/CSS/HTML) not saving
+- fix: woff2 icon font not found
+- fix minor issues
 ```
 
 #### Version 7.0.4 - Jun 18, 2026
 
 ```
-- fix: customize > single > advertisement labels: 4 identical- fix: layout post metabox, image wrong url for post format gallery- make backend english translatable by esc_html__()
+- fix: customize > single > advertisement labels: 4 identical
+- fix: layout post metabox, image wrong url for post format gallery
+- make backend english translatable by esc_html__()
 ```
 
 #### Version 7.0.2 - Mar 01, 2026
 
 ```
-- remove add_action( wp_head ) to add twitter share preview image, this should be SEO-plugin job- deprecate: pinterest, coronavirus- fix: heading not showing in Polylang- fix: custom params not working, params parsing mechanism (coding part)
+- remove add_action( wp_head ) to add twitter share preview image, this should be SEO-plugin job
+- deprecate: pinterest, coronavirus
+- fix: heading not showing in Polylang
+- fix: custom params not working, params parsing mechanism (coding part)
 ```
 
 #### Version 7.0.1.2 - Feb 03, 2026
@@ -30,13 +39,17 @@ description: "View previous change log >>"
 #### Version 7.0.1.1 - Feb 02, 2026
 
 ```
-- fix: edit button not showing for builder elements- add: ability to add link in builder text-editor widget - fix: thumbnail indicator not working in archive view- add: Loading.. text to Quick translation
+- fix: edit button not showing for builder elements
+- add: ability to add link in builder text-editor widget - fix: thumbnail indicator not working in archive view
+- add: Loading.. text to Quick translation
 ```
 
 #### version 7.0.0.3 - Jan 13, 2026
 
 ```
-- update docs url- fix upgrade engine issue for v5 -> v6- fix few minor issues
+- update docs url
+- fix upgrade engine issue for v5 -> v6
+- fix few minor issues
 ```
 
 #### Version 7.0.0.1 - Dec 23, 2025
@@ -239,31 +252,53 @@ description: "View previous change log >>"
 #### Version 6.7.3 – Dec 14, 2024
 
 ```
-- add bluesky icon- fix post format option not working in the backend sometimes
+- add bluesky icon
+- fix post format option not working in the backend sometimes
 ```
 
 #### Version 6.7.2 – Nov 28, 2024
 
 ```
-- fix: author name not translated in meta- fix: select element in darkmode- fix: 3 widgets on mobile not working- fix: customizer icons after WP 6.7.x- fix: single post nav doesn't have aria label- fix: translation register
+- fix: author name not translated in meta
+- fix: select element in darkmode
+- fix: 3 widgets on mobile not working
+- fix: customizer icons after WP 6.7.x
+- fix: single post nav doesn't have aria label
+- fix: translation register
 ```
 
 #### Version 6.7.1 – Oct 19, 2024
 
 ```
-- feature: Los Angeles demo- feature: new builder widget: authors- feature: builder: spacing option between cols- feature: builder: separator option between cols- feature: allow to use custom meta key for subtitle- feature: allow layout author avatar + date for single post meta- enhancement: single comment section looks cooler- enhancement: author "by" word looks better- enhancement: number of comments looks cooler- enhancement: improve accessibility for links- enhancement: caption on mobile 100%- support lightbox for *avif file- fix: list widget font not working- fix: builder heading widget padding issue on mobile- fix: posts not showing in sub-category when parent category being selected
+- feature: Los Angeles demo
+- feature: new builder widget: authors
+- feature: builder: spacing option between cols
+- feature: builder: separator option between cols
+- feature: allow to use custom meta key for subtitle
+- feature: allow layout author avatar + date for single post meta
+- enhancement: single comment section looks cooler
+- enhancement: author "by" word looks better
+- enhancement: number of comments looks cooler
+- enhancement: improve accessibility for links
+- enhancement: caption on mobile 100%
+- support lightbox for *avif file
+- fix: list widget font not working
+- fix: builder heading widget padding issue on mobile
+- fix: posts not showing in sub-category when parent category being selected
 ```
 
 #### Version 6.7.0.2 – Oct 17, 2024
 
 ```
-- fix paginated comments- fix Polylang heading not translated
+- fix paginated comments
+- fix Polylang heading not translated
 ```
 
 #### Version 6.7.0.1 – Oct 11, 2024
 
 ```
-- fix: list widget bullet- fix: icon font being cached
+- fix: list widget bullet
+- fix: icon font being cached
 ```
 
 #### Version 6.7 – Oct 06, 2024
@@ -307,13 +342,28 @@ description: "View previous change log >>"
 #### Version 6.6.2.1 – Sep 22, 2024
 
 ```
-- feature: add Polylang compatibility to The Fox v6- fix: body background image not fullsize image- fix: header button style not working issues- fix: .align-wide overflow on screen width around ~ 980x- fix: thumbnail indicator format, post view, review not showing- fix: youtube video ratio- fix: email share not working Safari (thanks IKAPIA for the code)
+- feature: add Polylang compatibility to The Fox v6
+- fix: body background image not fullsize image
+- fix: header button style not working issues
+- fix: .align-wide overflow on screen width around ~ 980x
+- fix: thumbnail indicator format, post view, review not showing
+- fix: youtube video ratio
+- fix: email share not working Safari (thanks IKAPIA for the code)
 ```
 
 #### Version 6.6.1 – August 30, 2024
 
 ```
-- feature: add X-twitter icon to user profile- feature: add button alignment option in builder- feature: blockquote padding option- feature: add translation for multi-author 'and' word- feature: add more predefined templates to the builder- improve: add by for co-authors- improve: theme UI/UX- fix: blockquote overlay icon not working- fix: masonry widget in the customizer not initialized- fix: widget duplicate
+- feature: add X-twitter icon to user profile
+- feature: add button alignment option in builder
+- feature: blockquote padding option
+- feature: add translation for multi-author 'and' word
+- feature: add more predefined templates to the builder
+- improve: add by for co-authors
+- improve: theme UI/UX
+- fix: blockquote overlay icon not working
+- fix: masonry widget in the customizer not initialized
+- fix: widget duplicate
 ```
 
 #### Version 6.6.0.1 – August 22, 2024
@@ -325,25 +375,50 @@ description: "View previous change log >>"
 #### Version 6.6 – August 21, 2024
 
 ```
-- feature: add padding/margin/border options for widget elements- feature: add button widget- feature: add html tag option for heading widget- improve: Fox + WPML full compatible- improve: header builder icon to remove elements.- fix: off-canvas animation option for HTML elements- fix: no error raised when invalid widget_type- fix: view_all error when editing heading widget- fix: post carousel not working, missing widget_id
+- feature: add padding/margin/border options for widget elements
+- feature: add button widget
+- feature: add html tag option for heading widget
+- improve: Fox + WPML full compatible
+- improve: header builder icon to remove elements.
+- fix: off-canvas animation option for HTML elements
+- fix: no error raised when invalid widget_type
+- fix: view_all error when editing heading widget
+- fix: post carousel not working, missing widget_id
 ```
 
 #### Version 6.5.2 – August 09, 2024
 
 ```
-- improve: add more fox + wpml compatibility for the new builder- fix: off-canvas html elements not showing
+- improve: add more fox + wpml compatibility for the new builder
+- fix: off-canvas html elements not showing
 ```
 
 #### Version 6.5.1 – August 07, 2024
 
 ```
-- feature: header presets to choose- feature: homepage typograpy predefined sizes to choose from.- fix: homepage builder duplicate widget not working- fix: pagination duplicated when editing builder post widgets- fix: Fox + Autoptimize plugin- fix: Fox + Siteground Optimizer plugin- fix: Fox + Litespeed cache
+- feature: header presets to choose
+- feature: homepage typograpy predefined sizes to choose from.
+- fix: homepage builder duplicate widget not working
+- fix: pagination duplicated when editing builder post widgets
+- fix: Fox + Autoptimize plugin
+- fix: Fox + Siteground Optimizer plugin
+- fix: Fox + Litespeed cache
 ```
 
 #### Version 6.5 – August 06, 2024
 
 ```
-- feature: add fox builder studio to build faster- feature: export/import builder widgets- feature: add more footer sidebar layouts- feature: add option to disable thumbnail on pages sitewide- improve: builder user interface, easier- improve: customizer user interface- improve: license management guide in Dashboard- fix: header html can't be saved.- fix: post list thumbnail max width on mobile- fix: google fonts not loaded for Litespeed cache- fix: separator text show twice in customizer
+- feature: add fox builder studio to build faster
+- feature: export/import builder widgets
+- feature: add more footer sidebar layouts
+- feature: add option to disable thumbnail on pages sitewide
+- improve: builder user interface, easier
+- improve: customizer user interface
+- improve: license management guide in Dashboard
+- fix: header html can't be saved.
+- fix: post list thumbnail max width on mobile
+- fix: google fonts not loaded for Litespeed cache
+- fix: separator text show twice in customizer
 ```
 
 #### Version 6.4.1 – July 16, 2024
@@ -355,7 +430,32 @@ description: "View previous change log >>"
 #### Version 6.4 – July 13, 2024
 
 ```
-- feature: add London demo- feature: add separator widget for homepage builder- feature: export/import widget *json file for the homepage builder- feature: section container padding option- feature: post list text-align option- feature: fancy category style for each builder news widgets- feature: add list widget color, spacing options- feature: image caption style- feature: subtitle max-width option- feature: add content link style, custom style + decoration- feature: add author box padding, border, color, background, typography options- feature: single post padding bottom- feature: add pagination typography option- improve: delete demo content easier- improve: organize Theme Options better- improve: better page builder UX/UI- improve: image alignment caption looks better- improve: mega post title font is consitent with dropdown menu font- fix: font variants not loaded correctly- fix: tooltip overflow hidden issue- fix: excerpt (...) not working- fix: post list thumbnail max-width now can be 80%- fix: single post lightbox not open- fix: post view count being displayed automatically- fix: page header align not working- fix: link not working
+- feature: add London demo
+- feature: add separator widget for homepage builder
+- feature: export/import widget *json file for the homepage builder
+- feature: section container padding option
+- feature: post list text-align option
+- feature: fancy category style for each builder news widgets
+- feature: add list widget color, spacing options
+- feature: image caption style
+- feature: subtitle max-width option
+- feature: add content link style, custom style + decoration
+- feature: add author box padding, border, color, background, typography options
+- feature: single post padding bottom
+- feature: add pagination typography option
+- improve: delete demo content easier
+- improve: organize Theme Options better
+- improve: better page builder UX/UI
+- improve: image alignment caption looks better
+- improve: mega post title font is consitent with dropdown menu font
+- fix: font variants not loaded correctly
+- fix: tooltip overflow hidden issue
+- fix: excerpt (...) not working
+- fix: post list thumbnail max-width now can be 80%
+- fix: single post lightbox not open
+- fix: post view count being displayed automatically
+- fix: page header align not working
+- fix: link not working
 ```
 
 #### Version 6.3.1 – July 05, 2024
@@ -367,13 +467,27 @@ description: "View previous change log >>"
 #### Version 6.3 – June 18, 2024
 
 ```
-- feature: improve homepage builder UI/UX + performance- feature: add performance options- feature: add header button elements for header builder- feature: improve overall site performance- feature: better import demo data, easier to delete sample data- feature: add After Header widgets for mobile- feature: add 1 header search style- improve: off-canvas menu toggle sub-menu when click full item- fix: social share panel can't close- fix: header search not working on mobile- fix: siteground central plugin + one click import demo conflict
+- feature: improve homepage builder UI/UX + performance
+- feature: add performance options
+- feature: add header button elements for header builder
+- feature: improve overall site performance
+- feature: better import demo data, easier to delete sample data
+- feature: add After Header widgets for mobile
+- feature: add 1 header search style
+- improve: off-canvas menu toggle sub-menu when click full item
+- fix: social share panel can't close
+- fix: header search not working on mobile
+- fix: siteground central plugin + one click import demo conflict
 ```
 
 #### Version 6.2.8 – June 04, 2024
 
 ```
-- feature: add editor style- feature: homepage builder section export/import- fix: some minor UX/UI issues of homepage builder- fix: import demo blank screen when siteground central plugin installed- fix: WPML + authors
+- feature: add editor style
+- feature: homepage builder section export/import
+- fix: some minor UX/UI issues of homepage builder
+- fix: import demo blank screen when siteground central plugin installed
+- fix: WPML + authors
 ```
 
 #### Version 6.2.7 – Apr 16, 2024
