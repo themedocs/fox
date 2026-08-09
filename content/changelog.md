@@ -6,7 +6,7 @@ description: "Every released version of the Fox theme, newest first."
 #### Version 7.1.1 - Aug 09, 2026
 
 ```
-- the theme is now published by HeronWP: author, license, support, docs and demo URLs all updated
+- update: license, support, docs and demo URLs
 - improve performance: preconnect to the Google Fonts hosts, so the browser no longer waits for a
   separate DNS/TLS round trip before the first font file arrives
 ```
