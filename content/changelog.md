@@ -72,7 +72,7 @@ description: "Every released version of the Fox theme, newest first."
 
 ```
 - add: page builder for any page: add page and choose template "Page builder"
-- add: fox studio template directory: https://themedocs.github.io/fox-templates/
+- add: fox studio template directory: https://fox-templates.heronwp.com/
 - improve site loading time: only load page builder fonts on pages having builder
 - fix: various page builder issues
 ```
