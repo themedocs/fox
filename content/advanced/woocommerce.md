@@ -3,7 +3,7 @@ title: "WooCommerce"
 description: "Fox supports WooCommerce. You can visit a demo shop here >"
 ---
 
-Fox supports WooCommerce. You can visit a [demo shop here >](https://fox.themepreview.site/classic/shop/)
+Fox supports WooCommerce. You can visit a [demo shop here >](https://fox.heronwp.com/classic/shop/)
 
 To set up set up a WooCommerce shop with the Fox theme, it’s 100% same as setting up WooCommerce for any other theme.
 

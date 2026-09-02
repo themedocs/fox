@@ -15,9 +15,9 @@ Fox uses [Mailchimp For WP](https://wordpress.org/plugins/mailchimp-for-wp/) plu
 
 ![](/fox/assets/image-53.jpg)
 
-**Step 4**: Create your form. This step is important. For stack forms, you can use any markup, even default markup by Mailchimp. For instance, here’s the markup we used in [Fox Classic demo](https://fox.themepreview.site/classic/).
+**Step 4**: Create your form. This step is important. For stack forms, you can use any markup, even default markup by Mailchimp. For instance, here’s the markup we used in [Fox Classic demo](https://fox.heronwp.com/classic/).
 
-However, if you want to create an inline form like in [Fox Fashion](https://fox.themepreview.site/fashion/), you must follow the below markup correctly.
+However, if you want to create an inline form like in [Fox Fashion](https://fox.heronwp.com/fashion/), you must follow the below markup correctly.
 
 **Step 5**: Add subscribe form to your desired area. The form can be added to sidebar by Mailchimp Side-up Form widget, or via the shortcode. Say, in the Fashion demo, we used the shortcode because builder section supports the shortcode.
 

@@ -3,7 +3,7 @@ title: "How to enable Dark Mode Toggle Button?"
 description: "You see a Dark Mode Toggle button like this demo. To enable it, please go to Customize > Header, you’ll see a header builder. Please drag & drop the dark mod..."
 ---
 
-You see a Dark Mode Toggle button like [this demo](https://fox.themepreview.site/hawaii/). To enable it, please go to *Customize > Header*, you’ll see a header builder. Please drag & drop the dark mode toggle button to the section you want.
+You see a Dark Mode Toggle button like [this demo](https://fox.heronwp.com/hawaii/). To enable it, please go to *Customize > Header*, you’ll see a header builder. Please drag & drop the dark mode toggle button to the section you want.
 
 ![](/fox/assets/image-64-1024x595-1.jpg)
 

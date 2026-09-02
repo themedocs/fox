@@ -9,7 +9,7 @@ This article explains how FOX Block works and how to use it to build header, foo
 
 FOX Block is a *custom post type*, added in Fox theme, its slug is *fox_block*. It’s called “block” but you can think about it as a small post **to be included in othere areas** of the theme like Header, Footer.. Sometimes, a block is the entire template such as Single Post template.
 
-However, the only purpose of each FOX Block is *to be used in other parts* (like header, footer). It has no purpose for itself. For instance, in [this demo](https://fox.themepreview.site/times3/), the Header is actually a FOX block named “Header”.
+However, the only purpose of each FOX Block is *to be used in other parts* (like header, footer). It has no purpose for itself. For instance, in [this demo](https://fox.heronwp.com/times3/), the Header is actually a FOX block named “Header”.
 
 The reason behind why we use FOX Block is because: **It’s a post type so that we can use Elementor to build anything there**. The Header Builder is actually using Elementor in FOX Block then use that block as the header.
 

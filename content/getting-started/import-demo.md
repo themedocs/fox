@@ -5,7 +5,7 @@ description: "Here's few facts you should know before importing:"
 
 Here's few facts you should know before importing:
 
-1. You can import any demo from [this demo list](https://fox.themepreview.site/). All demos are included in the theme.
+1. You can import any demo from [this demo list](https://fox.heronwp.com/). All demos are included in the theme.
 2. You can import full demo (ie. posts, pages, image, content..) or just demo settings (i.e. only theme-style). The latter case is helpful when your site already has content and you don't want to mess things up.
 3. You need to enter a valid license code before importing demo data.
 4. Not all hosting allows one-click import (e.g. GoDaddy), so if you can't import by our one-click button, please [import demo manually](/fox/getting-started/import-manually/).
@@ -19,7 +19,7 @@ Here's few facts you should know before importing:
 ### Import demo settings/style only
 
 1. Go to **Dashboard > Fox Magazine > Import Demo Data**, click "**Switch to Manual Import**"
-2. Visit [this demo list](https://fox.themepreview.site/demolist/) to find the demo you want to import. Those demos are sorted by name A-Z. Then download the `customizer.dat` file
+2. Visit [this demo list](https://fox.heronwp.com/demolist/) to find the demo you want to import. Those demos are sorted by name A-Z. Then download the `customizer.dat` file
 3. Upload the Customizer file. Then hit "**Continue & Import**"
 
 ### Uninstall demo

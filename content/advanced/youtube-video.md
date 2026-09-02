@@ -13,7 +13,7 @@ YouTube video has 3 kinds of ratios:
 
 The Fox supports all of those ratios with default one is 16/9. There are 2 places you can insert video with The Fox theme.
 
-1. **Post format video**: Video will appear at the place of featured image of the post. [View example >>](https://fox.themepreview.site/times/ive-always-felt-responsible-for-world-war-ii/)
+1. **Post format video**: Video will appear at the place of featured image of the post. [View example >>](https://fox.heronwp.com/times/ive-always-felt-responsible-for-world-war-ii/)
 2. **In post content** or in **widget**. This is the common WordPress feature. The Fox supports both Gutenberg and Classic editor.
 
 ### Post format video
@@ -48,10 +48,10 @@ Step 3
 
 : Choose video ratio. Here's 4 types of ratio explained.
 
-- [Example post with 16/9 ratio](https://fox.themepreview.site/example/2024/09/22/video-ratio-16-9/)
-- [Example post with 4/3 ratio](https://fox.themepreview.site/example/2024/09/22/video-ratio-4-3/)
-- [Example Youtube short with 9/16](https://fox.themepreview.site/example/2024/09/22/youtube-short-ratio-9-16/). You feel it's quite big, right? That's why we have the 4th option, which is better for the Short videos.
-- [Example Youtube short with 16/9 on desktop and 9/16 on mobile](https://fox.themepreview.site/example/2024/09/22/youtube-short-with-16-9-on-desktop-and-9-16-on-mobile/). On desktop, you'll see it as a normal video. On mobile, It's fullscreen as short video. Scan QR below to test it on mobile. ![](/fox/assets/qr.png)
+- [Example post with 16/9 ratio](https://fox.heronwp.com/example/2024/09/22/video-ratio-16-9/)
+- [Example post with 4/3 ratio](https://fox.heronwp.com/example/2024/09/22/video-ratio-4-3/)
+- [Example Youtube short with 9/16](https://fox.heronwp.com/example/2024/09/22/youtube-short-ratio-9-16/). You feel it's quite big, right? That's why we have the 4th option, which is better for the Short videos.
+- [Example Youtube short with 16/9 on desktop and 9/16 on mobile](https://fox.heronwp.com/example/2024/09/22/youtube-short-with-16-9-on-desktop-and-9-16-on-mobile/). On desktop, you'll see it as a normal video. On mobile, It's fullscreen as short video. Scan QR below to test it on mobile. ![](/fox/assets/qr.png)
 
 ### Youtube videos in post content
 

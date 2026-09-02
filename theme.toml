@@ -2,6 +2,6 @@ name     = "Fox"
 slug     = "fox"
 tagline  = "Minimal WordPress blog & magazine theme"
 accent   = "#0000ff"   # heronwp.com's accent — every theme on the docs host wears it
-demo     = "https://fox.themepreview.site/"
+demo     = "https://fox.heronwp.com/"
 download = ""
 support  = "https://heronwp.support-desk.site/"
