@@ -15,4 +15,4 @@ After installing both *Elementor* and *FOX Framework* plugin, you’ll be able t
 
 ![](/fox/assets/image-3-1024x1021-1.jpg)
 
-If you are not familiar with Elementor, please watch [this tutorial video](https://www.youtube.com/watch?v=Em8oIBGy6bs) from the plugin for having some initial concept. Here’s the [full documentation](https://docs.elementor.com/) of the plugin.
+If you are not familiar with Elementor, please watch [this tutorial video](https://www.youtube.com/watch?v=Em8oIBGy6bs) from the plugin for having some initial concept. Here’s the [full documentation](https://elementor.com/help/) of the plugin.

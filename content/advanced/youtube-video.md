@@ -48,10 +48,10 @@ Step 3
 
 : Choose video ratio. Here's 4 types of ratio explained.
 
-- [Example post with 16/9 ratio](https://fox.heronwp.com/example/2024/09/22/video-ratio-16-9/)
-- [Example post with 4/3 ratio](https://fox.heronwp.com/example/2024/09/22/video-ratio-4-3/)
-- [Example Youtube short with 9/16](https://fox.heronwp.com/example/2024/09/22/youtube-short-ratio-9-16/). You feel it's quite big, right? That's why we have the 4th option, which is better for the Short videos.
-- [Example Youtube short with 16/9 on desktop and 9/16 on mobile](https://fox.heronwp.com/example/2024/09/22/youtube-short-with-16-9-on-desktop-and-9-16-on-mobile/). On desktop, you'll see it as a normal video. On mobile, It's fullscreen as short video. Scan QR below to test it on mobile. ![](/fox/assets/qr.png)
+- **16/9** — the standard widescreen ratio.
+- **4/3** — the older, taller ratio.
+- **9/16** — full vertical, for YouTube Shorts. It comes out quite big on desktop, which is why there is a 4th option.
+- **16/9 on desktop, 9/16 on mobile** — on desktop the Short plays as a normal video; on mobile it goes fullscreen vertical.
 
 ### Youtube videos in post content
 

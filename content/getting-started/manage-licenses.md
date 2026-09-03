@@ -22,7 +22,7 @@ To register/unregister license, please go to **Dashboard > Fox Magazine**. You a
 
 Sometimes you can’t access to your website you used that purchase code (for instance, you deleted it or you can’t access it for some reason, or you reinstalled it but forgot to revoke license) but you still want to revoke the purchase code to use for another site, then here’s the step-by-step guide.
 
-**Step 1**: Visit the [license manager website](https://heronwp-license.themepreview.site/wp-admin/).
+**Step 1**: Visit the [license manager website](https://license.heronwp.com/wp-admin/).
 
 **Step 2**: Login with **username** is your ThemeForest username and **password** is your purchase code. If you even forget your purchase code, please go to [your download page](https://themeforest.net/downloads) to download the purchase code.
 
@@ -44,4 +44,4 @@ Sometimes you can’t access to your website you used that purchase code (for in
 
 **Still not working?**
 
-Please [open a support ticket here](https://heronwp.support-desk.site/), or [comment on Themeforest](https://themeforest.net/item/the-fox-contemporary-magazine-theme-for-creators/11103012/comments), we will help you to revoke/remove the license manually. **Note**: Our support ticket is private and your information is safe, but Themeforest comments are public. DO NOT PROVIDE license code on Themeforest comments.
+Please [open a support ticket here](https://heronwp.com/support/), or [comment on Themeforest](https://themeforest.net/item/the-fox-contemporary-magazine-theme-for-creators/11103012/comments), we will help you to revoke/remove the license manually. **Note**: Our support ticket is private and your information is safe, but Themeforest comments are public. DO NOT PROVIDE license code on Themeforest comments.
