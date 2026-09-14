@@ -7,9 +7,13 @@ Thank you for purchasing [The Fox Magazine theme](https://themeforest.net/item/t
 
 ### Tech specs
 
-1. Compatible with WordPress 6.9, PHP 7, 8, WooCommmerce, Polylang
-2. Requires PHP 7.0+, WordPress 6.0+
-3. This is a self-hosted wordpress theme. You need your own hosting or wordpress.com business plan to install it
+1. Requires WordPress 6.0+ and PHP 7.4+. Tested up to WordPress 6.9 and PHP 8.
+2. Works with WooCommerce, Polylang and WPML.
+3. This is a self-hosted WordPress theme. You need your own hosting, or a wordpress.com business plan, to install it.
+
+### What you paid for
+
+One regular licence is **$69**, bought once on ThemeForest — no subscription, no renewal. It covers **one** WordPress installation and includes theme updates and support. See [Manage licenses](/fox/getting-started/manage-licenses/) for what counts as one installation, and [Refund](/fox/getting-started/refund/) for the 14-day guarantee.
 
 ### Quick links
 

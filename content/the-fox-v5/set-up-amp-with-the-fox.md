@@ -3,13 +3,13 @@ title: "Set up AMP with The Fox"
 description: "Briefly explained, if you set up AMP, for each URL of https://your-site.com/the-path/, your site creates another page https://your-site.com/the-path/amp/. Th..."
 ---
 
-> The Fox 6 currently does not guarantee the compatibility with AMP. We drop the support for AMP [because of this](https://plausible.io/blog/google-amp).
+> **Fox v6 and v7 do not guarantee AMP compatibility.** We dropped AMP support [because of this](https://plausible.io/blog/google-amp) — Google no longer requires AMP for Top Stories. This page is kept for sites still running an AMP setup.
 
 ### **What is AMP?**
 
 Briefly explained, if you set up AMP, for each URL of *https://your-site.com/the-path/*, your site creates another page *https://your-site.com/the-path/amp/*. That AMP page will be super light, minimal and fast and only be used for mobile access only. Google uses that AMP page for mobile search result because it’s fast, so your site will have higher rank on mobile search result.
 
-### **The****Fox is AMP-ready**
+### **The Fox is AMP-ready**
 
 Yes, since Fox version 4.8, it supports AMP and in this article, we’ll explain how to set up AMP-ready site with Fox theme.
 
@@ -22,7 +22,7 @@ There are many ways to build an AMP-friendly website generally. Also in WordPres
 
 ### **Step-by-step guide to set up AMP site with Fox theme**
 
-#### **Step 1: Install plugin****s**
+#### **Step 1: Install plugins**
 
 ![](/fox/assets/image-5-1.png)
 
@@ -35,7 +35,7 @@ The AMP for WP is the plugin for building AMP site. With only this plugin, you c
 
 If you don’t see those plugins there then it means your plugins have been installed. Please go to Dashboard > Plugins to see if they had been there or not.
 
-#### **Step 2: Set up****The Fox AMP**
+#### **Step 2: Set up The Fox AMP**
 
 Fox uses AMP for WP plugin to set up AMP. So please follow [their documentation](https://ampforwp.com/tutorials/) for a detailed tutorial of this plugin (general settings, options..). Here we present how to set up The Fox AMP.
 

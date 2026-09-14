@@ -28,6 +28,9 @@ Another method to update The Fox is to update it manually.
 
 1. Go to [your download page](https://themeforest.net/downloads), find Fox theme to download latest version.
 2. If you download the full package from ThemeForest, you must unzip it and find `fox.zip` file. That’s the actual theme file. If you downloaded “installable WordPress only”, skip this step.
-3. Go to **Dashboard > Appearance > Themes > Upload Theme**
+3. Go to **Dashboard > Appearance > Themes > Add New > Upload Theme**
+
+    ![Appearance > Themes > Add New > Upload Theme](/fox/assets/install-001-upload-theme.jpg)
+
 4. Upload the file you have just downloaded then hit **Install Now.**
 5. It’ll ask you if you want to replace current with uploaded or cancel & go back. Choose **“Replace current with uploaded”**. Now you have The Fox latest version.

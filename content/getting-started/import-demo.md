@@ -13,7 +13,7 @@ Here's few facts you should know before importing:
 ### Import full content by one-click button
 
 1. Install Fox theme + register license code + install One-click import demo plugin. If you haven't done yet, revisit [Install page](/fox/getting-started/install/). After doing those 3 things, you'll see menu Dashboard > Fox Magazine > Import demo. That menu won't show up unless you've done all.
-2. Go to **Dashboard > Fox Magazine > **Import Demo Data****, choose demo you want to import. Click **Import Demo** button > **Continue & Import** > then wait for few minutes.
+2. Go to **Dashboard > Fox Magazine > Import Demo Data**, choose the demo you want to import. Click **Import Demo** button > **Continue & Import** > then wait for few minutes.
 3. If there's no error, you'll see a green/yellow screens. Green means there's no errors. Yellow means there are some warnings during importing process, but they're not mandatory.
 
 ### Import demo settings/style only

@@ -765,3 +765,5 @@ description: "Every released version of the Fox theme, newest first."
 - fix: home builder padding top/bottom
 - fix: Fox version message while updating
 ```
+
+[View previous change log >>](https://fox.heronwp.com/previous-change-log/)

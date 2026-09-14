@@ -18,35 +18,13 @@ The Fox supports all of those ratios with default one is 16/9. There are 2 place
 
 ### Post format video
 
-Step 1
-
-: Edit your post, scroll down to bottom to find
-
-Post settings
-
-.
+**Step 1**: Edit your post, scroll down to bottom to find **Post settings**.
 
 ![](/fox/assets/video_format.jpg)
 
-Step 2
+**Step 2**: Click **Format options** tab > choose post format **Video** > enter youtube video URL for **Video embed code**.
 
-: Click
-
-Format options
-
-tab > choose post format
-
-Video
-
-> enter youtube video URL for
-
-Video embed code
-
-.
-
-Step 3
-
-: Choose video ratio. Here's 4 types of ratio explained.
+**Step 3**: Choose video ratio. Here's 4 types of ratio explained.
 
 - **16/9** — the standard widescreen ratio.
 - **4/3** — the older, taller ratio.
@@ -55,33 +33,15 @@ Step 3
 
 ### Youtube videos in post content
 
-Here's example of videos in post content
-
 #### Gutenberg editor
 
-Step 1
-
-: Add Youtube element. Enter your Video url.
+**Step 1**: Add Youtube element. Enter your Video url.
 
 ![](/fox/assets/Screenshot_2-3.png)
 
 By default, It'll display video with ratio 16/9. In case you want to change the ratio of your video (see 4 examples above in the part Post format video), here's the next step:
 
-Step 2
-
-: Edit
-
-Youtube video block
-
->
-
-Advanced tab
-
-> edit its
-
-CSS class
-
-.
+**Step 2**: Edit **Youtube video block** > **Advanced tab** > edit its **CSS class**.
 
 ![](/fox/assets/video_in_gutenberg.jpg)
 
@@ -98,10 +58,17 @@ Those names explain themselves. For now, we have no better options.
 
 #### Classic editor
 
-If you use Classic editor, when you insert the video, It has ratio 16/9 by default. But if you want to change to different ratio, you must wrap it in a `<div>`
-like below, in the **Text** tab:
+If you use Classic editor, when you insert the video, It has ratio 16/9 by default. But if you want to change to a different ratio, you must wrap it in a `<div>` carrying the class, in the **Text** tab:
 
 ![](/fox/assets/video_classic_editor.jpg)
+
+```html
+<div class="wp-embed-aspect-short-flexible">
+
+[embed]https://www.youtube.com/shorts/Bxj21vkJ9Hw[/embed]
+
+</div>
+```
 
 Unfortunately, we not yet had any better mechanism for this.
 

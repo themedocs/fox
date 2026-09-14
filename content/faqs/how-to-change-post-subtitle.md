@@ -3,8 +3,4 @@ title: "How to change post subtitle?"
 description: "Please read"
 ---
 
-Please read
-
-this article
-
-.
+Please read [this article](/fox/theme-parts/subtitle/).
