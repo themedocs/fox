@@ -98,21 +98,10 @@ Those names explain themselves. For now, we have no better options.
 
 #### Classic editor
 
-If you use Classic editor, when you insert the video, It has ratio 16/9 by default. But if you want to change to different ratio, you must wrap it by a
-
-<div>
-
-like below (in
-
-Text
-
-tab)
+If you use Classic editor, when you insert the video, It has ratio 16/9 by default. But if you want to change to different ratio, you must wrap it in a `<div>`
+like below, in the **Text** tab:
 
 ![](/fox/assets/video_classic_editor.jpg)
-
-Here's the code
-
-.
 
 Unfortunately, we not yet had any better mechanism for this.
 
